@@ -1,5 +1,6 @@
 # data-visualization
 
+
 ### What
 
 The descriptive statistics and data visualization of the closing prices of 2 companies.
@@ -12,6 +13,7 @@ To identify the evolution of both companies and compare them.
 ### When 
 
 From jan 2020 until march 2020.  
+From march 2019 until march 2020.
 
 ### How
 
