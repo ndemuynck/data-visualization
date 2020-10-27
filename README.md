@@ -20,6 +20,9 @@ From march 2019 until march 2020.
 By using time series, histograms and a scatter plot.
 
 
+### Merge the files
+
+
 
 
 
